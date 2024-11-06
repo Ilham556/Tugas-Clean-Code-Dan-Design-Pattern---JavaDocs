@@ -19,7 +19,7 @@ Untuk menggenerate JavaDocs secara lokal, ikuti langkah-langkah berikut:
 4. Pilih direktori yang ingin Anda simpan file JavaDocs-nya.
 5. Klik **OK** dan tunggu proses selesai.
 
-JavaDocs akan tersedia di direktori yang Anda tentukan, dan Anda bisa membuka file `index.html` untuk melihat dokumentasi tersebut di browser.
+JavaDocs akan tersedia di direktori yang Anda tentukan, dan Anda bisa membuka file `dist/javadoc/index.html` untuk melihat dokumentasi tersebut di browser.
 
 ## Fitur
 - Form input data pelanggan
