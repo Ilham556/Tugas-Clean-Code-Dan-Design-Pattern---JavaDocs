@@ -20,11 +20,6 @@ Untuk menggenerate JavaDocs secara lokal, ikuti langkah-langkah berikut:
 5. Klik **OK** dan tunggu proses selesai.
 
 JavaDocs akan tersedia di direktori yang Anda tentukan, dan Anda bisa membuka file `dist/javadoc/index.html` untuk melihat dokumentasi tersebut di browser.
-
-## Fitur
-- Form input data pelanggan
-- Validasi form input untuk memastikan data yang dimasukkan tidak kosong
-- Pemisahan antara **Model**, **View**, dan **Controller** untuk menjaga prinsip **Clean Code** dan pemrograman berbasis **MVC** (Model-View-Controller).
   
 ## Instruksi Penggunaan
 1. Clone repositori ini:
@@ -38,5 +33,4 @@ JavaDocs akan tersedia di direktori yang Anda tentukan, dan Anda bisa membuka fi
 
 4. Periksa konsol untuk melihat apakah data berhasil disimpan atau apakah terjadi kesalahan.
 
-## Lisensi
-Proyek ini dilisensikan di bawah lisensi MIT.
+
