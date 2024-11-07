@@ -8,7 +8,7 @@
 Proyek ini adalah tugas penerapan **JavaDocs** untuk dokumentasi kode yang lebih jelas dan informatif, yang memungkinkan developer lain untuk dengan mudah memahami struktur dan fungsi kode yang ada.
 
 ## Letak JavaDocs
-Dokumentasi **JavaDocs** dapat ditemukan dalam kode sumber proyek ini. Anda dapat mengaksesnya melalui tag JavaDoc yang telah diterapkan pada kelas, metode, dan parameter di seluruh kode.
+Dokumentasi **JavaDocs** dapat ditemukan dalam kode sumber proyek ini. Anda dapat mengaksesnya melalui tag JavaDoc yang telah diterapkan pada kelas, metode, dan parameter di seluruh kode. Dalam project ini anda dapat mengakses lokasi JavaDocs di `dist/javadoc/index.html` lalu buka `index.html`
 
 Untuk menggenerate JavaDocs secara lokal, ikuti langkah-langkah berikut:
 
